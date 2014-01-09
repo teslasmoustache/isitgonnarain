@@ -1,7 +1,8 @@
 {
-  "name": "Rain",
-  "description": "A minimalistic weather app that tells you whether it's going to rain today.",
-  "version": "0.4",
+  "name": "F*ck Weather",
+  "description": "A remix of the 'Dry' app by Tobias Bernard and Julian Sparber which more accurately reflects
+  my personal feelings on precipitation.",
+  "version": "0.0.1",
   "launch_path": "/index.html",
   "icons": {
     "256": "/img/icon-256.png",
@@ -12,8 +13,8 @@
     "32": "/img/icon-32.png"
   },
   "developer": {
-    "name": "Real Numbers",
-    "url": "https://github.com/realnumbers"
+    "name": "teslasmoustache",
+    "url": "https://github.com/teslasmoustache/f_ck-weather"
   },
    "permissions": {
     "geolocation": {
