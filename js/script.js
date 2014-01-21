@@ -5,17 +5,17 @@ $(function(){
 		"blank": "Is it going to rain?",
 		"rain": "It's totally gonna rain today",
 		"clouds": "It might rain today",
-		"clear": "Nothing to worry about",
-		"snow": "Yay, it's going to snow",
+		"clear": "Nothing falling out of the sky",
+		"snow": "Fuckin' cold white shit all over the goddamn ground.",
 		"about": "About"
 	}
 
 	var subtitles = {
 		"blank": "",
-		"rain": "Better get an umbrella or something.",
-		"clouds": "You should probably take an umbrella with you, just to be safe.",
-		"clear": "Rain is really unlikely today.",
-		"snow": "You should probably wear boots and warm clothes today.",
+		"rain": "There's friggin' water falling outta the sky again.",
+		"clouds": "It's cloudy as shit outside.",
+		"clear": "You can come out of your cave, if you want to.",
+		"snow": "Fuck snow. Fuck Winter. And fuck you.",
 		"about": "Designed and developed by <a href=\"http://julian.sparber.net\" target=”_blank”>Julian Sparber</a> and <a href=\"http://tobiasbernard.com\" target=\”_blank\”>Tobias Bernard</a> for the 2013 Open Data Hackathon.<br> <br>Weather Data by <a href=\"http://openweathermap.com\" target=\”_blank\”>OpenWeatherMap</a>.<br> <br>This application is <a href=\"https://www.gnu.org/philosophy/free-sw.html\" target=\”_blank\”>Free Software</a>, released under the <a href=\"https://www.gnu.org/licenses/gpl.html\" target=\”_blank\”>GPLv3</a> or later.<br>Get the source on <a href=\"https://github.com/realnumbers/isitgonnarain\" target=\”_blank\”>Github</a>."
 	};
 	var numberOfSlides = 6;
